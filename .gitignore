@@ -1,3 +1,5 @@
 server/Multimedia
 server/config.json
 client/Multimedia
+server/server.exe
+client/client.exe
